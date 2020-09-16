@@ -1,10 +1,8 @@
 /* KÜÇÜKTEN BÜYÜĞE || BÜYÜKTEN KÜÇÜĞE SIRALAMA ALGORİTMASI */
 
 // Sıralanacak sayılar
-const Numbers = ['3', '2', '5', '1', '4'];
+const Numbers = [3, 14, 5, 9, 4, 8, 15 ,6, 13, 7, 0, 1, 2, 12, 10, 11];
 
-// Sıralanmış sayılar
-const newNumbers = [];
 let counter = 0;
 
 while(0 < 1){
