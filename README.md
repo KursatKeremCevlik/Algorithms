@@ -1,2 +1,3 @@
 # Algorithms
-Bu repo mantığımı geliştirmek için bazı küçük problemleri çözmek amacıyla geliştirdiğim algoritmaları kapsar
+
+This repository covers the algorithms I developed to solve some small problems to improve my logic
